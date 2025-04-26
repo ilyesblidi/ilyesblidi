@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Lyes Blidi</h1>
+<p align="center">
+🎓 3rd-year Computer Science student at <strong>ESI Algiers</strong> <br>
+💻 Passionate about software development, mobile apps, and solving real-world problems through code.
+</p>
 
-<!--
-**ilyesblidi/ilyesblidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Languages
+`Java` `C` `C#` `Dart` `JavaScript (basic)`
+
+### 📱 Mobile Development
+`Flutter` `Firebase (learning)`
+
+### 🌐 Web Development
+`Angular` `HTML/CSS` `REST API` `MySQL`
+
+### 💻 Desktop Development
+`Java` `WPF (C#)`
+
+### 🔧 Tools & Platforms
+`Git` `GitHub` `VS Code` `JetBrains`
+
+---
+
+## 🌱 Currently Learning
+
+- 📲 **Flutter** for mobile apps  
+- 🗃️ **Databases** (Firebase, MySQL, SQL basics)  
+- 🧩 UI/UX design fundamentals (exploring with Figma)  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **ll_blidi@esi.dz**  
+- 💼 LinkedIn: [linkedin.com/in/ilyesblidi](https://linkedin.com/in/ilyesblidi)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyesblidi&show_icons=true&theme=default" alt="Lyes's GitHub stats" />
+</p>
