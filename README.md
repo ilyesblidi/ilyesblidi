@@ -36,7 +36,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: **ll_blidi@esi.dz**  
-- 💼 LinkedIn: www.linkedin.com/in/lyes-blidi-65a54b308
+- 💼 LinkedIn: www.linkedin.com/in/lyes-blidi
 
 ---
 
