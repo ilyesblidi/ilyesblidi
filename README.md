@@ -9,13 +9,13 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Languages
-`Java` `C` `C#` `Dart` `JavaScript (basic)`
+`Java` `C` `C#` `Dart`
 
 ### 📱 Mobile Development
-`Flutter` `Firebase (learning)`
+`Flutter`
 
 ### 🌐 Web Development
-`Angular` `HTML/CSS` `REST API` `MySQL`
+`Angular` `HTML/CSS`
 
 ### 💻 Desktop Development
 `Java` `WPF (C#)`
@@ -28,7 +28,7 @@
 ## 🌱 Currently Learning
 
 - 📲 **Flutter** for mobile apps  
-- 🗃️ **Databases** (Firebase, MySQL, SQL basics)  
+- 🗃️ **Databases** (Firebase, PostgreSQL, SQL basics)  
 - 🧩 UI/UX design fundamentals (exploring with Figma)  
 
 ---
